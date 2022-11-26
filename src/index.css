@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ ul li {
+    font-family: 'Cinzel', serif;
+}
+h1{
+    font-family: 'Nunito Sans', sans-serif;
+}
+h2 {
+    font-family: 'Cinzel', serif;
+}
